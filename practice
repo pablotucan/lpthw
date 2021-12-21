@@ -1,0 +1,15 @@
+def when_are_you_free(Monday, Tuesday, Wednesday):
+    if Monday == Yes:
+        print("Monday you are free!!!!")
+    if Tuesday == Yes:
+        print("Tuesday you are free!!!!")
+    if Wednesday == Yes:
+        print("Wednesday you are free!!!!")
+
+Monday = input("Are you free Monday?")
+
+Tuesday = input("Are you free Tuesday?")
+
+Wednesday = input("Are you free Wednesday?")
+
+print.when_are_you_free(Monday, Tuesday, Wednesday)
